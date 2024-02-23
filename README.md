@@ -1,0 +1,2 @@
+# TECHNOGENIUSpict
+School Management System
